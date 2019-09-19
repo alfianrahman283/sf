@@ -21,12 +21,12 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/08/how-manufacturing-project-management.html"}
-if(x=="2"){xxx="/2019/08/the-best-quoting-software-for.html"}
+if(x=="1"){xxx="/2019/08/the-best-quoting-software-for.html"}
+if(x=="2"){xxx="/2019/08/how-manufacturing-project-management.html"}
 if(x=="3"){xxx="/2019/08/the-best-quality-control-software-for.html"}
 if(x=="4"){xxx="/2019/08/lists-of-mrp-software-for-small-business.html"}
-if(x=="5"){xxx="/2019/08/lists-of-manufacturing-resource.html"}
-if(x=="6"){xxx="/2019/08/5-best-cam-software-you-can-choose.html"}
+if(x=="5"){xxx="/2019/08/5-best-cam-software-you-can-choose.html"}
+if(x=="6"){xxx="/2019/08/lists-of-manufacturing-resource.html"}
 if(x=="7"){xxx="/2019/08/5-main-benefits-of-manufacturing.html"}
 if(x=="8"){xxx="/2019/08/make-business-more-efficient-with.html"}
 if(x=="9"){xxx="/2019/08/the-importance-of-manufacturing-cost.html"}
